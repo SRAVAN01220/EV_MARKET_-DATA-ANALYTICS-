@@ -32,6 +32,33 @@ This repository contains SQL queries and their dummy result data related to elec
    Comparison of average sales with and without government incentives.
 
 ---
+# EV Market Analysis - SQL Query Results
+
+This file contains dummy result data generated from the SQL queries analyzing the electric vehicle (EV) market.
+
+---
+
+## About the CSV: `ev_queries_combined_results.csv`
+
+The CSV consolidates the results of five key SQL queries, each tagged by query number and description for easy identification:
+
+| Query Number | Description                                   |
+| ------------ | --------------------------------------------- |
+| 1            | Total EV Sales per Country                    |
+| 2            | Average EV Market Share per Year              |
+| 3            | Average GDP per Capita vs Average EV Sales   |
+| 4            | Total EV Sales by EV Type                      |
+| 5            | Average EV Sales by Government Incentives     |
+
+---
+
+## How to Use
+
+- Each row contains the query number, query description, and result data.
+- Use this CSV for practicing data visualization or as a sample dataset for your EV market analysis.
+- The dummy data reflects typical values you might expect from a cleaned EV sales database.
+
+---
 
 ## How to Use
 
