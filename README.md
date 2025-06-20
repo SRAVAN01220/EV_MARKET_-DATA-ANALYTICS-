@@ -28,5 +28,22 @@ This repository contains SQL queries and their dummy result data related to elec
 4. **Total EV Sales by EV Type**  
    Sales totals grouped by EV type (BEV, PHEV, HEV).
 
-5. **Average E**
-# EV_MARKET_-DATA-ANALYTICS-
+5. **Average EV Sales by Government Incentives**  
+   Comparison of average sales with and without government incentives.
+
+---
+
+## How to Use
+
+- You can run the SQL queries on your EV market database after adjusting table/column names as needed.
+- Use the CSV dummy data to practice data visualization or analytics.
+- Extend queries for deeper analysis or reporting.
+
+---
+
+Feel free to open issues or contribute improvements!
+
+---
+
+*Created by Sravan*
+
