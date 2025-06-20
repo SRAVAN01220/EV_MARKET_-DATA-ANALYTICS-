@@ -86,7 +86,7 @@ This repository contains SQL queries and their result data related to electric v
 ---
 # EV Market Analysis - SQL Query Results
 
-This file contains dummy result data generated from the SQL queries analyzing the electric vehicle (EV) market.
+This file contains result data generated from the SQL queries analyzing the electric vehicle (EV) market.
 
 ---
 
