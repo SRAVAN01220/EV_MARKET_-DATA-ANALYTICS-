@@ -12,6 +12,46 @@ This repository contains SQL queries and their dummy result data related to elec
 | France  | 2,200,000    |
 
 
+
+| Year | avg\_market\_share (%) |
+| ---- | ---------------------- |
+| 2015 | 5.25                   |
+| 2016 | 6.80                   |
+| 2017 | 9.35                   |
+| 2018 | 11.70                  |
+| 2019 | 15.22                  |
+| 2020 | 19.84                  |
+| 2021 | 22.36                  |
+| 2022 | 24.90                  |
+| 2023 | 27.51                  |
+| 2024 | 28.73                  |
+
+
+
+| Country | avg\_gdp\_per\_capita | avg\_sales |
+| ------- | --------------------- | ---------- |
+| USA     | 68,500                | 28,500     |
+| Norway  | 74,200                | 26,300     |
+| Germany | 58,100                | 25,900     |
+| France  | 52,400                | 24,500     |
+| China   | 15,200                | 21,100     |
+
+
+| EV\_Type | total\_sales |
+| -------- | ------------ |
+| BEV      | 8,400,000    |
+| PHEV     | 5,900,000    |
+| HEV      | 4,800,000    |
+
+
+
+| Govt\_Incentives | avg\_sales |
+| ---------------- | ---------- |
+| YES              | 26,400     |
+| NO               | 18,900     |
+
+
+
 ## Files Included
 
 - `queries.sql`  
