@@ -3,6 +3,9 @@
 This repository contains SQL queries and their dummy result data related to electric vehicle (EV) market analysis. The goal is to provide examples for analyzing EV sales, market share, and related metrics across countries and years.
 
 ---
+
+1. Total EV Sales per Country
+   
 | Country | total\_sales |
 | ------- | ------------ |
 | USA     | 5,200,000    |
@@ -11,7 +14,7 @@ This repository contains SQL queries and their dummy result data related to elec
 | Norway  | 2,800,000    |
 | France  | 2,200,000    |
 
-
+2. Average EV Market Share per Year
 
 | Year | avg\_market\_share (%) |
 | ---- | ---------------------- |
@@ -26,7 +29,7 @@ This repository contains SQL queries and their dummy result data related to elec
 | 2023 | 27.51                  |
 | 2024 | 28.73                  |
 
-
+3. Average GDP per Capita vs Average EV Sales per Country
 
 | Country | avg\_gdp\_per\_capita | avg\_sales |
 | ------- | --------------------- | ---------- |
@@ -36,6 +39,7 @@ This repository contains SQL queries and their dummy result data related to elec
 | France  | 52,400                | 24,500     |
 | China   | 15,200                | 21,100     |
 
+4. Total EV Sales by EV Type
 
 | EV\_Type | total\_sales |
 | -------- | ------------ |
@@ -43,7 +47,7 @@ This repository contains SQL queries and their dummy result data related to elec
 | PHEV     | 5,900,000    |
 | HEV      | 4,800,000    |
 
-
+5. Average EV Sales by Government Incentives (YES/NO)
 
 | Govt\_Incentives | avg\_sales |
 | ---------------- | ---------- |
@@ -99,12 +103,6 @@ The CSV consolidates the results of five key SQL queries, each tagged by query n
 | 5            | Average EV Sales by Government Incentives     |
 
 ---
-
-## How to Use
-
-- Each row contains the query number, query description, and result data.
-- Use this CSV for practicing data visualization or as a sample dataset for your EV market analysis.
-- The dummy data reflects typical values you might expect from a cleaned EV sales database.
 
 ---
 
