@@ -89,9 +89,13 @@ This repository contains SQL queries and their result data related to electric v
 This file contains result data generated from the SQL queries analyzing the electric vehicle (EV) market.
 
 total_ev_sales_per_country.csv
+
 average_ev_market_share_per_year.csv
+
 avg_gdp_vs_avg_ev_sales.csv
+
 total_ev_sales_by_ev_type.csv
+
 avg_ev_sales_by_govt_incentives.csv
 
 ---
