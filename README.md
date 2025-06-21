@@ -119,7 +119,7 @@ The CSV consolidates the results of five key SQL queries, each tagged by query n
 ## How to Use
 
 - You can run the SQL queries on your EV market database after adjusting table/column names as needed.
-- Use the CSV dummy data to practice data visualization or analytics.
+- Use the CSV data to practice data visualization or analytics.
 - Extend queries for deeper analysis or reporting.
 
 ---
