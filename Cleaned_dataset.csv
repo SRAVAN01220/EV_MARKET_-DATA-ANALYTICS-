@@ -1,4 +1,4 @@
-Country,Year,Manufacturer,EV_Sales_(USD),Charging_Stations,EV_Market_Share(%),Total_Vehicles_Sold,EV_Type,GDP_per_Capita,Govt_Incentives
+Country,Year,Manufacturer,EV_Sales_(USD),Charging_Stations,EV_Market_Share(%),Total_Vehicles_Sold,EV_Type,GDP_per_Capita,Govt_Incentives 
 USA,2022,Chevrolet,"$2,933 ",1194.0,9.82,32626.0,BEV,72932.0,yes
 USA,2018,BMW,"$27,980 ",484.0,18.74,47411.0,BEV,3747.0,No
 India,2016,Ford,$689 ,2744.0,18.93,69124.0,HEV,57886.0,YES
