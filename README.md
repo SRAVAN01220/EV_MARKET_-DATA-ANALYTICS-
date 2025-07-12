@@ -1,6 +1,6 @@
 # EV Market Analysis - SQL Queries and Results
 
-This repository contains SQL queries and their result data related to electric vehicle (EV) market analysis. The goal is to provide examples for analyzing EV sales, market share, and related metrics across countries and years.
+This  contains SQL queries and their result data related to electric vehicle (EV) market analysis. The goal is to provide examples for analyzing EV sales, market share, and related metrics across countries and years.
 
 ---
 
